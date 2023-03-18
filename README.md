@@ -36,16 +36,26 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Select and download your flavor + accent of choice:
+  - Latte
+  - Frappe
+  - Macchiato
+  - Mocha
+2. Rename the file to `shell.nss`.
+3. Hold shift and right-click the taskbar.
+4. Hover over "Shell" and click on "directory".
+5. Move your downloaded file into the Nilesoft Shell folder that just opened, replacing the old `shell.nss` file with the new one.
+6. Hold shift and right-click the taskbar.
+7. Click on "Exit Explorer".
+Your wallpaper will go black for a second and any File Explorer windows you had open will close as File Explorer restarts automatically. Your new theme should be applied.
 
 <!-- this section is optional -->
 ## 🙋 FAQ
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+-	Q: **_"How do I make the menu background blurred?"_**\
+	A: Open your `shell.nss` file. Change the `opacity` value (line 17) under `background` to something less than 100. Then, remove the `//` from the `effect = 2` line below `opacity`. Finally, restart File Explorer.
+-	Q: **_"How do I remove the border around the context menu?"_**\
+	A: Open your `shell.nss` file. Go to `border` (line 42) and change `enabled = true` (line 44) to `enabled = false`. Then, restart File Explorer.
 
 ## 💝 Thanks to
 
