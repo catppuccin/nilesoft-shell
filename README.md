@@ -37,10 +37,10 @@
 ## Usage
 
 1. Select and download your flavor + accent of choice:
-  - Latte
-  - Frappe
-  - Macchiato
-  - Mocha
+  - [Latte](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/latte)
+  - [Frappe](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/frappe)
+  - [Macchiato](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/macchiato)
+  - [Mocha](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/mocha)
 2. Rename the file to `shell.nss`.
 3. Hold shift and right-click the taskbar.
 4. Hover over "Shell" and click on "directory".
@@ -66,7 +66,7 @@ Your wallpaper will go black for a second and any File Explorer windows you had 
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [jayylmao](https://github.com/jayylmao)
 
 &nbsp;
 
