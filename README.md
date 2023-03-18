@@ -53,9 +53,16 @@ Your wallpaper will go black for a second and any File Explorer windows you had 
 ## 🙋 FAQ
 
 -	Q: **_"How do I make the menu background blurred?"_**\
-	A: Open your `shell.nss` file. Change the `opacity` value (line 17) under `background` to something less than 100. Then, remove the `//` from the `effect = 2` line below `opacity`. Finally, restart File Explorer.
+	A: 
+    1. Open your `shell.nss` file.
+    2. Change the `opacity` value (line 17) under `background` to something less than 100.
+    3. Remove the `//` from the `effect = 2` line below `opacity`. 
+    4. Restart File Explorer.
 -	Q: **_"How do I remove the border around the context menu?"_**\
-	A: Open your `shell.nss` file. Go to `border` (line 42) and change `enabled = true` (line 44) to `enabled = false`. Then, restart File Explorer.
+	A: 
+    1. Open your `shell.nss` file.
+    2. Go to `border` (line 42) and change `enabled = true` (line 44) to `enabled = false`.
+    3. Restart File Explorer.
 
 ## 💝 Thanks to
 
