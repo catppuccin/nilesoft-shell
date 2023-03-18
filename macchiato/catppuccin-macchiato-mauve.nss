@@ -15,6 +15,7 @@ shell
 			{
 				color = #24273a
 				opacity = 100
+				// effect = 2
 			}
 
 			item
