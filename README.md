@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/latte.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/frappe.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/mocha.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/mocha.png"/>
 </details>
 
 ## Usage
