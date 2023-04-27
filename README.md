@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/preview.png"/>
+	<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/preview.webp"/>
 </p>
 
 ## Previews
