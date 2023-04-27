@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/nilesoft-shell?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/nilesoft-shell?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/nilesoft-shell?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/latte.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/frappe.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/mocha.png"/>
+<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/mocha.webp"/>
 </details>
 
 ## Usage
