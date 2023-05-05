@@ -12,35 +12,35 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/nilesoft-shell/main/assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/latte.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/nilesoft-shell/main/assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/frappe.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/nilesoft-shell/main/assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/nilesoft-shell/main/assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/jayylmao/catppuccin-nilesoft-shell/main/assets/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/nilesoft-shell/main/assets/mocha.webp"/>
 </details>
 
 ## Usage
 
 1. Select and download your flavor + accent of choice:
-  - [Latte](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/latte)
-  - [Frappe](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/frappe)
-  - [Macchiato](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/macchiato)
-  - [Mocha](https://github.com/jayylmao/catppuccin-nilesoft-shell/tree/main/mocha)
+  - [Latte](https://github.com/catppuccin/nilesoft-shell/tree/main/latte)
+  - [Frappe](https://github.com/catppuccin/nilesoft-shell/tree/main/frappe)
+  - [Macchiato](https://github.com/catppuccin/nilesoft-shell/tree/main/macchiato)
+  - [Mocha](https://github.com/catppuccin/nilesoft-shell/tree/main/mocha)
 2. Rename the file to `shell.nss`.
 3. Hold shift and right-click the taskbar.
 4. Hover over "Shell" and click on "directory".
