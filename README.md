@@ -41,27 +41,32 @@
   - [Frappe](https://github.com/catppuccin/nilesoft-shell/tree/main/frappe)
   - [Macchiato](https://github.com/catppuccin/nilesoft-shell/tree/main/macchiato)
   - [Mocha](https://github.com/catppuccin/nilesoft-shell/tree/main/mocha)
-2. Rename the file to `shell.nss`.
+2. Rename the file to `theme.nss`.
 3. Hold shift and right-click the taskbar.
 4. Hover over "Shell" and click on "directory".
-5. Move your downloaded file into the Nilesoft Shell folder that just opened, replacing the old `shell.nss` file with the new one.
+5. In the folder that just opened, navigate to `\imports` and move your `theme.nss` into the folder, replacing the existing one. Feel free to back this file up beforehand.
 6. Hold shift and right-click the taskbar.
 7. Click on "Exit Explorer".
-Your wallpaper will go black for a second and any File Explorer windows you had open will close as File Explorer restarts automatically. Your new theme should be applied.
+Your wallpaper will go black for a second and any File Explorer windows you had open may close as File Explorer restarts automatically. Your new theme should be applied.
 
 <!-- this section is optional -->
 ## 🙋 FAQ
 
 -	Q: **_"How do I make the menu background blurred?"_**\
 	A: 
-    1. Open your `shell.nss` file.
-    2. Change the `opacity` value (line 17) under `background` to something less than 100.
+    1. Open your `theme.nss` file.
+    2. Change the `opacity` value (line 10) under `background` to something less than 100.
     3. Remove the `//` from the `effect = 2` line below `opacity`. 
     4. Restart File Explorer.
 -	Q: **_"How do I remove the border around the context menu?"_**\
 	A: 
-    1. Open your `shell.nss` file.
-    2. Go to `border` (line 42) and change `enabled = true` (line 44) to `enabled = false`.
+    1. Open your `theme.nss` file.
+    2. Go to `border` (line 43) and change `enabled = true` (line 45) to `enabled = false`.
+    3. Restart File Explorer.
+- Q: **_"How do I change the font, size, weight, etc.?_**\
+  A:
+    1. Open your `theme.nss` file.
+    2. Go to `font` (line 35) and change the appropriate key/s there.
     3. Restart File Explorer.
 
 ## 💝 Thanks to
