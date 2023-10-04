@@ -66,8 +66,9 @@ Your wallpaper will go black for a second and any File Explorer windows you had 
 - Q: **_"How do I change the font, size, weight, etc.?_**\
   A:
     1. Open your `theme.nss` file.
-    2. Go to `font` (line 35) and change the appropriate key/s there.
-    3. Restart File Explorer.
+    2. Go to `font` (line 35) and remove the `//` from lines 35-41. (This part is commented out by default because, from my experience, it causes issues with scaling on mixed-DPI setups.)
+    3. Change the appropriate keys to your liking.
+    4. Restart File Explorer.
 
 ## 💝 Thanks to
 
