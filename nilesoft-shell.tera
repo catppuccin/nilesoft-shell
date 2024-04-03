@@ -1,0 +1,88 @@
+---
+whiskers:
+  version: "2.0.0"
+  matrix:
+    - flavor
+    - accent
+  filename: "{{ flavor.identifier }}/catppuccin-{{ flavor.identifier }}-{{ accent }}.nss"
+---
+{%- set palette = flavor.colors -%}
+theme
+{
+	name = "modern"
+
+	view = view.small
+
+	background
+	{
+		color = #{{ palette.base.hex }}
+		opacity = 100
+		// effect = 2
+	}
+
+	item
+	{
+		opacity = 100
+
+		prefix = 1
+
+		text
+		{
+			normal = #{{ palette.text.hex }}
+			select = #{{ palette.text.hex }}
+			normal-disabled = #{{ palette.subtext0.hex }}
+			select-disabled = #{{ palette.subtext0.hex }}
+		}
+
+		back
+		{
+			select = #{{ palette.surface1.hex }}
+			select-disabled = #{{ palette.surface0.hex }}
+		}
+	}
+
+	// font
+	// {
+	// 	size = 14
+	// 	name = "Segoe UI Variable Text"
+	// 	weight = 2
+	// 	italic = 0
+	// }
+
+	border
+	{
+		enabled = true
+		size = 1
+		color = #{{ palette[accent].hex }}
+		opacity = 100
+		radius = 2
+	}
+
+	shadow
+	{
+		enabled = true
+		size = 5
+		opacity = 5
+		color = #{{ palette.crust.hex }}
+	}
+
+	separator
+	{
+		size = 1
+		color = #{{ palette.surface0.hex }}
+	}
+
+	symbol
+	{
+		normal = #{{ palette[accent].hex }}
+		select = #{{ palette[accent].hex }}
+		normal-disabled = #{{ palette.subtext0.hex }}
+		select-disabled = #{{ palette.subtext0.hex }}
+	}
+
+	image
+	{
+		enabled = true
+		color = [#{{ palette.text.hex }}, #{{ palette[accent].hex }}, #{{ palette.base.hex }}]
+	}
+}
